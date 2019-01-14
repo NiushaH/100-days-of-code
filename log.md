@@ -8,7 +8,7 @@
 **Link to work:**
 
 
-### Day 5: January 11, 2019
+### Day 5: January 14, 2019
 **Today's Progress:** Goal to complete 3 labs on Learn today
 
 **Thoughts:** Starting with OO Cash Register Lab.
