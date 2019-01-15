@@ -8,14 +8,23 @@
 **Link to work:**
 
 
-### Day 6: January 15, 2019 
-**Today's Progress**: Completed TeamTreehouse Ruby courss modules: Blocks, 
+### Day _: 
+**Today's Progress**:   Explore and complete Team Treehouse Beta Assessment of Ruby knowledge
 
-**Thoughts:**  Learned about neurogaming when looking up neurogami... love how dictionaries help me stumble onto new words and concepts.
+**Thoughts:**
+
+**Link to work:** https://teamtreehouse.com/tracks/learn-ruby/assessment/topic_info?topic_id=5
+
+
+
+### Day 6: January 15, 2019 
+**Today's Progress**: Completed TeamTreehouse Ruby course Blocks module, racked my brain with OO Cash Register on FlatironSchool's Learn platform and moved on to Intro to Ruby Object Relationships. 
+
+**Thoughts:**  Learned about neurogaming when looking up neurogami... love how dictionaries help me stumble onto new words and concepts.  Object labs were a struggle... not sure if it because labs are test-driven or if there's more to understand about object properties, lifecycle, and models in combination with class variables and methods, or something else.
 
 Later today or early tomorrow to check out and run through: http://neurogami.com/content/neurogami-10_minutes_to_your_first_Ruby_app/
 
-**Link to work:**
+**Link to work:** https://learn.co/tracks/full-stack-web-development-v6/object-oriented-ruby/object-relationships/intro-to-object-relationships
 
 
 ### Day 5: January 14, 2019
