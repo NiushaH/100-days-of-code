@@ -8,6 +8,16 @@
 **Link to work:**
 
 
+### Day 6: January 15, 2019 
+**Today's Progress**: Completed TeamTreehouse Ruby courss modules: Blocks, 
+
+**Thoughts:**  Learned about neurogaming when looking up neurogami... love how dictionaries help me stumble onto new words and concepts.
+
+Later today or early tomorrow to check out and run through: http://neurogami.com/content/neurogami-10_minutes_to_your_first_Ruby_app/
+
+**Link to work:**
+
+
 ### Day 5: January 14, 2019
 **Today's Progress:** Goal to complete 3 labs on Learn today
 
